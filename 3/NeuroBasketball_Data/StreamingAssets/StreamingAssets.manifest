@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4176863502
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: homescreenbundle
+      Dependencies: {}

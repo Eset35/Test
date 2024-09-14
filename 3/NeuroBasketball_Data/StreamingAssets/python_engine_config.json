@@ -1,0 +1,6 @@
+{
+  "PythonFolder": "PythonEngine",
+  "PythonDll": "python311.dll",
+  "PythonZip" :  "python311.zip",
+  "ScriptsFolder" : "PythonCore"
+}

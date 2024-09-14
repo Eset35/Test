@@ -1,0 +1,4 @@
+f5 - 255:3
+f6 - 255:3 => 4 seconds delay => 255:4
+f7 - 255:5
+f8 - 255:3 => 4 seconds delay => 255:0

@@ -1,6 +1,0 @@
-{
-  "ProjectName": "basketball",
-  "ProjectType": "prod",
-  "SportID" :  1,
-  "SendLogsToCloud" : true
-}
